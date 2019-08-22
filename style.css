@@ -121,3 +121,10 @@ a.button:hover {
 a.button:active {
     background: rgba(80, 120, 80, 1);
 }
+
+#aboutus {
+    margin: 8px;
+    color: #96c56f;
+    font: 16px arial;
+    text-align: center;
+}
